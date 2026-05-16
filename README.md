@@ -1,50 +1,53 @@
-# Aye-basota
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=model+%3D+nn.TransformerEncoder%28...%29;loss_fn+%3D+nn.CrossEntropyLoss%28%29;optimizer.step%28%29+--+training+complete;torch.save%28model.state_dict%28%29%2C+%27production.pt%27%29" alt="Typing SVG" />
+  </a>
+</h1>
 
-Machine Learning Engineer focused on production-ready systems.
-
----
-
-## Focus Areas
-
-- **Natural Language Processing** — transformers, LLM fine-tuning, retrieval-augmented generation
-- **Computer Vision** — image classification, object detection, segmentation
-- **Classical ML** — gradient boosting, feature engineering, tabular data pipelines
-- **MLOps** — model deployment, API design, containerization, CI/CD
-
----
-
-## Tech Stack
-
-| Layer | Tools |
-|-------|-------|
-| Deep Learning | PyTorch, TensorFlow, Keras |
-| NLP | Hugging Face Transformers, spaCy, NLTK |
-| Classical ML | scikit-learn, XGBoost, LightGBM, CatBoost |
-| Data | Pandas, NumPy, Polars, SQL |
-| API & Deployment | FastAPI, Flask, Docker, Docker Compose |
-| Experiment Tracking | MLflow, Weights & Biases |
-| Infrastructure | GitHub Actions, Linux, AWS ( basics ) |
-
----
-
-## Selected Projects
-
-| Repository | Description | Stack |
-|------------|-------------|-------|
-| [`credit-risk-predictor`](https://github.com/Aye-basota/credit-risk-predictor) | End-to-end credit scoring pipeline with model monitoring | Python, XGBoost, FastAPI, Docker |
-| [`text-classification-api`](https://github.com/Aye-basota/text-classification-api) | BERT-based classifier served via REST API with batch inference | PyTorch, Transformers, FastAPI |
-| [`image-segmentation-pytorch`](https://github.com/Aye-basota/image-segmentation-pytorch) | U-Net implementation for medical image segmentation | PyTorch, segmentation-models-pytorch |
-| [`ml-project-templates`](https://github.com/Aye-basota/Aye-basota) *(this repo)* | Reusable templates for ML project structure and documentation | Python, cookiecutter |
-
----
-
-## GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aye-basota&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aye-basota&layout=compact&theme=graywhite&hide_border=true&hide_title=true&langs_count=6" height="150" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aye-basota&theme=algolia&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-*Most repositories are private or in active development. Selected public work is listed above.*
+### Domains
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NLP-Transformers%20%7C%20LLMs-58A6FF?style=flat-square&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/CV-Detection%20%7C%20Segmentation-58A6FF?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tabular-XGBoost%20%7C%20LightGBM-58A6FF?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-Docker%20%7C%20FastAPI%20%7C%20CI%2FCD-58A6FF?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
+</p>
+
+---
+
+### Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aye-basota&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+</p>
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aye-basota&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aye-basota&layout=compact&theme=github_dark&hide_border=true&hide_title=true&langs_count=8" height="170" />
+</p>
