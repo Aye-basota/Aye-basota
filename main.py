@@ -13,4 +13,4 @@ for i in range(1000):
             simulation_price = simulation_price*0.99
     price_list_history.append(simulation_price)
 plt.hist(price_list_history)
-plt.show()
+plt.show(sadf)
