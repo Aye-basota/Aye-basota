@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aye-basota&theme=algolia&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aye-basota&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&cache=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aye-basota&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aye-basota&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&cache=1" alt="Activity Graph" />
 </p>
 
 ---
@@ -48,6 +48,6 @@
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aye-basota&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aye-basota&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aye-basota&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=60" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aye-basota&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=60" height="170" />
 </p>
