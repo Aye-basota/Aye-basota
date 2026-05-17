@@ -40,7 +40,7 @@
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aye-basota&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&cache=1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aye-basota&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&cache=1&height=300" alt="Activity Graph" />
 </p>
 
 ---
