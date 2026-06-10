@@ -3,11 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=model+%3D+nn.TransformerEncoder%28...%29;loss_fn+%3D+nn.CrossEntropyLoss%28%29;optimizer.step%28%29+--+training+complete;torch.save%28model.state_dict%28%29%2C+%27production.pt%27%29" alt="Typing SVG" />
   </a>
 </h1>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aye-basota&theme=algolia&no-frame=true&row=1&column=6&margin-w=15&cache=1" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### Domains
